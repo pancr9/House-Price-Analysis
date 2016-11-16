@@ -10,15 +10,9 @@ The program is focused on using regression to predict a continuous value (house 
 + **waterfront:**   waterfront property				
 + **view:**         type of view				
 + **sqft_above:**   square feet above ground				
-### sqft_basement
-square feet in basement				
-### yr_built
-the year built				
-### yr_renovated
-the year renovated				
-### lat,long
-the lat-long of the parcel				
-### sqft_living15
-average sq.ft. of 15 nearest neighbors 				
-### sqft_lot15
-average lot size of 15 nearest neighbors 
++ **sqft_basement:**square feet in basement				
++ **yr_built:** the year built				
++ **yr_renovated:** the year renovated				
++ **lat,long:** the lat-long of the parcel				
++ **sqft_living15:** average sq.ft. of 15 nearest neighbors 				
++ **sqft_lot15:** average lot size of 15 nearest neighbors 
