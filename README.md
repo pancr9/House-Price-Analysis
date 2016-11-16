@@ -5,12 +5,9 @@ The program is focused on using regression to predict a continuous value (house 
 
 ## Dataset inlcudes:
 
-*condition*
-condition of house				
-### grade 
-measure of quality of construction				
-### waterfront
-waterfront property				
+**condition**     :condition of house				
+**grade**         :measure of quality of construction				
+**waterfront**    :waterfront property				
 ### view
 type of view				
 ### sqft_above
