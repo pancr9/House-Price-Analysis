@@ -2,6 +2,8 @@
 Prediction of House Prices based on Linear Regression Model
 
 Dataset 
+
+
 'condition', # condition of house				
 'grade', # measure of quality of construction				
 'waterfront', # waterfront property				
@@ -13,4 +15,3 @@ Dataset
 'lat', 'long', # the lat-long of the parcel				
 'sqft_living15', # average sq.ft. of 15 nearest neighbors 				
 'sqft_lot15', # average lot size of 15 nearest neighbors 
-]
