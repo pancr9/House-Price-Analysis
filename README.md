@@ -1,9 +1,8 @@
 # House-Price-Analysis
-Prediction of House Prices based on Linear Regression Model
-# The program is focused on using regression to predict a continuous value (house prices) from features of the house (square feet of living space, number of bedrooms,...).
+Prediction of House Prices based on Linear Regression Model.
+The program is focused on using regression to predict a continuous value (house prices) from features of the house (square feet of living space, number of bedrooms,...).
 
 ## Dataset inlcudes:
-
 
 ### condition
 condition of house				
